@@ -1,0 +1,29 @@
+# C build artifacts
+obj/
+bin/
+lib/
+*.o
+*.d
+*.so
+*.so.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+.venv/
+venv/
+.python-version
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Runtime output
+*.out
+*.log
